@@ -8,20 +8,19 @@ Human Pose Estimation refers to the process of detecting human figures within im
 
 This implementation is built using popular machine learning frameworks such as TensorFlow or PyTorch. The model is trained on benchmark datasets and optimized for real-time performance, making it suitable for a wide variety of applications, such as action recognition, motion analysis, and augmented reality.
 
-Features
+Features-
 
-Pose Estimation: Detects human body keypoints (e.g., joints, limbs).
-Real-Time Performance: Supports real-time video pose estimation.
-Cross-Platform Compatibility: Built to run on both CPU and GPU systems.
-Simple API: Provides an easy-to-use command-line interface for image and video input.
-
-Getting Started...
+1. Pose Estimation: Detects human body keypoints (e.g., joints, limbs).
+2. Real-Time Performance: Supports real-time video pose estimation.
+3. Cross-Platform Compatibility: Built to run on both CPU and GPU systems.
+4. Simple API: Provides an easy-to-use command-line interface for image and video input.
 
 To run this project, you will need the following installed:
-Python (>= 3.7)
-pip (Python package manager)
-TensorFlow or PyTorch (choose based on your preference)
-OpenCV (for video processing)
+
+1. Python (>= 3.7)
+2. pip (Python package manager)
+3. TensorFlow or PyTorch (choose based on your preference)
+4. OpenCV (for video processing)
 
 Input Format
 The model accepts both individual images and video files as input. Supported formats for images include .jpg, .png, and .bmp. For video files, the model supports .mp4, .avi, and .mov formats.
@@ -36,8 +35,8 @@ Below are some sample outputs of the pose estimation process:
 Contributing
 We welcome contributions from the community. If you would like to contribute, please follow the steps below:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and test them.
-Submit a pull request with a detailed explanation of your changes.
-Please ensure that your code adheres to the style guide and includes relevant tests.
+1.Fork the repository.
+2.Create a new branch for your feature or bug fix.
+3.Make your changes and test them.
+4.Submit a pull request with a detailed explanation of your changes.
+5.Please ensure that your code adheres to the style guide and includes relevant tests.
