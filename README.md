@@ -32,7 +32,8 @@ Below are some sample outputs of the pose estimation process:
 
 ![image](https://github.com/user-attachments/assets/3f2b9f48-3e15-47df-aab1-4fa95738a13b)
 
-Contributing
+For Contributing
+
 We welcome contributions from the community. If you would like to contribute, please follow the steps below:
 
 1. Fork the repository.
