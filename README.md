@@ -35,8 +35,8 @@ Below are some sample outputs of the pose estimation process:
 Contributing
 We welcome contributions from the community. If you would like to contribute, please follow the steps below:
 
-1.Fork the repository.
-2.Create a new branch for your feature or bug fix.
-3.Make your changes and test them.
-4.Submit a pull request with a detailed explanation of your changes.
-5.Please ensure that your code adheres to the style guide and includes relevant tests.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test them.
+4. Submit a pull request with a detailed explanation of your changes.
+5. Please ensure that your code adheres to the style guide and includes relevant tests.
