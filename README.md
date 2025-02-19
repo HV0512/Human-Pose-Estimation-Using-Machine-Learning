@@ -34,12 +34,7 @@ Below are some sample outputs of the pose estimation process:
 
 ![image](https://github.com/user-attachments/assets/3f2b9f48-3e15-47df-aab1-4fa95738a13b)
 
-For Contributing
+Contributing
 
-We welcome contributions from the community. If you would like to contribute, please follow the steps below:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test them.
-4. Submit a pull request with a detailed explanation of your changes.
-5. Please ensure that your code adheres to the style guide and includes relevant tests.
+Contributions to this project are welcome! 
+If you have suggestions for improving the model, or have implemented a new feature or optimization, feel free to open an issue or submit a pull request.
