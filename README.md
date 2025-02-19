@@ -23,9 +23,11 @@ To run this project, you will need the following installed:
 4. OpenCV (for video processing)
 
 Input Format
+
 The model accepts both individual images and video files as input. Supported formats for images include .jpg, .png, and .bmp. For video files, the model supports .mp4, .avi, and .mov formats.
 
 Results
+
 Below are some sample outputs of the pose estimation process:
 
 ![image](https://github.com/user-attachments/assets/8e636384-621a-4b2a-af1d-a80dcca66d2c)
