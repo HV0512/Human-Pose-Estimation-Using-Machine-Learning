@@ -36,5 +36,6 @@ Below are some sample outputs of the pose estimation process:
 
 Contributing
 
-Contributions to this project are welcome! 
+Contributions to this project are welcome!
+
 If you have suggestions for improving the model, or have implemented a new feature or optimization, feel free to open an issue or submit a pull request.
